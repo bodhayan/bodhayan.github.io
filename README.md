@@ -1,7 +1,5 @@
 # Bodhayan Prasad
 
-***
-
 ## Research interests
 * Computational Sciences
 * Bioinformatics
