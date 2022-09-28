@@ -6,7 +6,7 @@ An innovator
 ## Research interests
 * Computational Sciences
 * Bioinformatics
-* Graphs / Networks
+* Complex Systems
 * Machine Learning (ML) / Artificial Intelligence (AI)
 
 * * *
