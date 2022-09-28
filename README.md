@@ -6,7 +6,7 @@ An innovator
 ## Research interests
 
 | Biological Sciences | Computational Sciences |
-| --- | --- |
+| :--- | ---: |
 | Bioinformatics | Probability Theory |
 | Personalised Medicine | Complex Systems |
 | Stratified Healthcare | Machine Learning |
