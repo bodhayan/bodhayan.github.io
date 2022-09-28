@@ -7,7 +7,7 @@ An innovator
 * Computational Sciences
 * Bioinformatics
 * Complex Systems
-* Machine Learning (ML) / Artificial Intelligence (AI)
+* Machine Learning
 
 * * *
 
