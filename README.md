@@ -6,6 +6,8 @@ An innovator
 ## Research interests
 * Computational Sciences
 * Bioinformatics
+* Personalised Medicine
+* Stratified Healthcare
 * Complex Systems
 * Machine Learning
 
