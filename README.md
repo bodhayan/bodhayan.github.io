@@ -6,17 +6,18 @@ An innovator
 ## Research interests
 * Computational Sciences
 * Bioinformatics
-* Machine Learning (ML) 
+* Graphs and Networks
+* Machine Learning (ML) / Artificial Intelligence (AI)
 
 * * *
 
 ## Packages and pipelines developed
 * molSpel
-* ATRPred
-* PVPredPip
-* MulMorPip
-* EMTPred
-* GibbSamplr
+* [ATRPred](https://github.com/ShuklaLab/ATRPred)
+* [PVPredPip](https://github.com/ShuklaLab/PVPredPip)
+* [MulMorPip](https://github.com/ShuklaLab/MulMorPip)
+* [EMTPred](https://github.com/ShuklaLab/EMTPred)
+* [GibbSamplr](https://github.com/ShuklaLab/gibbSmplr)
 
 * * *
 ## Publications
