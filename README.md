@@ -16,6 +16,7 @@ An innovator
 ## Packages and pipelines developed
 * molSpel
 * [ATRPred](https://github.com/ShuklaLab/ATRPred)
+* [muSignAl](https://github.com/ShuklaLab/muSignAl)
 * [PVPredPip](https://github.com/ShuklaLab/PVPredPip)
 * [MulMorPip](https://github.com/ShuklaLab/MulMorPip)
 * [EMTPred](https://github.com/ShuklaLab/EMTPred)
@@ -27,4 +28,4 @@ For full list of publications visit [Google Scholar](https://scholar.google.com/
 
 * * *
 
-###### _Last updated on: 28 Sept 2022_
+###### _Last updated on: 30 Sept 2022_
