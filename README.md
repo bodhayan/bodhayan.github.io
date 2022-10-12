@@ -1,4 +1,4 @@
-![qr >](ORCID.png "bodhayan"){:height="36px" width="36px"}
+![qr >](ORCID.png#right "bodhayan")
 # Bodhayan Prasad
 An innovator
 
