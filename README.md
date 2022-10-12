@@ -42,8 +42,7 @@ class="underline"
 ## Publications
 For full list of publications visit [Google Scholar](https://scholar.google.com/citations?user=2lOFHzwAAAAJ).
 
-# Scan my ORCID QR code:
-![qr ](ORCID.png "bodhayan")
+# Scan my ORCID QR code: ![qr ](ORCID.png "bodhayan")
 
 * * *
 
