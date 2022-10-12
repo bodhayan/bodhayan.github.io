@@ -24,10 +24,12 @@ An innovator
 * [GibbSamplr](https://github.com/ShuklaLab/gibbSmplr)
 
 * * *
+
 ## Publications
-For full list of publications visit [Google Scholar](https://scholar.google.com/citations?user=2lOFHzwAAAAJ).
+For full list of publications visit [Google Scholar](https://scholar.google.com/citations?user=2lOFHzwAAAAJ) or access my ORCID records by scaning the QR code:
 
 ![qr ](ORCID.png "bodhayan")
+
 * * *
 
 ###### _Last updated on: 12 Oct 2022_
