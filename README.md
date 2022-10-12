@@ -1,3 +1,4 @@
+![qr ](ORCID.png "bodhayan")
 # Bodhayan Prasad
 
 An innovator 
@@ -8,7 +9,7 @@ An innovator
 
 | Biological Sciences | Computational Sciences |
 | :--- | ---: |
-| Bioinformatics | Probability Theory | ![qr ](ORCID.png "bodhayan") |
+| Bioinformatics | Probability Theory |
 | Personalised Medicine | Complex Systems |
 | Stratified Healthcare | Machine Learning |
 
