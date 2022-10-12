@@ -40,8 +40,9 @@ class="underline"
 * * *
 
 ## Publications
-For full list of publications visit [Google Scholar](https://scholar.google.com/citations?user=2lOFHzwAAAAJ) or access my ORCID records by scaning the QR code:
+For full list of publications visit [Google Scholar](https://scholar.google.com/citations?user=2lOFHzwAAAAJ).
 
+You can also access my ORCID records by scaning the QR code below:
 ![qr ](ORCID.png "bodhayan")
 
 * * *
