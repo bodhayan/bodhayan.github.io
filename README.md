@@ -1,4 +1,4 @@
-![qr](ORCID.png "bodhayan")
+![qr >](ORCID.png "bodhayan")
 # Bodhayan Prasad
 An innovator
 
