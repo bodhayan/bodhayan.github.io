@@ -1,3 +1,4 @@
+![qr](ORCID.png "bodhayan")
 # Bodhayan Prasad
 An innovator
 
@@ -28,4 +29,4 @@ For full list of publications visit [Google Scholar](https://scholar.google.com/
 
 * * *
 
-###### _Last updated on: 30 Sept 2022_
+###### _Last updated on: 12 Oct 2022_
