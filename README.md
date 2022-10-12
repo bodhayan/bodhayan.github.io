@@ -1,5 +1,5 @@
-# Bodhayan Prasad
-| An innovator | ![qr ](ORCID.png "bodhayan") |
+# Bodhayan Prasad                                      ![qr ](ORCID.png "bodhayan")
+An innovator 
 
 ***
 
