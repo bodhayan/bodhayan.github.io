@@ -33,7 +33,8 @@ layout: default
 * * *
 
 ## Publications
-For full list of publications visit [Google Scholar](https://scholar.google.com/citations?user=2lOFHzwAAAAJ) or click 
+[Google Scholar](https://scholar.google.com/citations?user=2lOFHzwAAAAJ)
+
 <a
 id="cy-effective-orcid-url"
 class="underline"
