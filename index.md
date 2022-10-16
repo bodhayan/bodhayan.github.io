@@ -6,8 +6,6 @@ layout: default
 {% include analytics.html %}
 {% endif %}
 
-An innovator
-
 <a
 id="cy-effective-orcid-url"
 class="underline"
