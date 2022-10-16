@@ -1,3 +1,3 @@
 # Hola!
 
-Please visit my GutHub page (here)[https://bodhayan.github.io/]
+Please visit my GutHub page [here](https://bodhayan.github.io/)
