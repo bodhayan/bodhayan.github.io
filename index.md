@@ -3,7 +3,7 @@ layout: default
 ---
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-<script> var x = document.getElementsByClassName("site-footer-credits");
+<script> var x = document.getElementsByTagName("footer");
  setTimeout(() => { x[0].remove(); }, 10);
 </script>
 
