@@ -1,3 +1,7 @@
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 # Bodhayan Prasad
 
 An innovator
