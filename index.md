@@ -3,8 +3,8 @@ layout: default
 ---
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-<script> var x = document.getElementsByTagName("footer")[0].getElementsByTagName("small");
- setTimeout(() => { x[0].innerHTML="<a href="mailto:bodhayan@live.com">Send Email</a>"; }, 10);
+<script> var x = document.getElementsByTagName("footer");
+ setTimeout(() => { x[0].remove(); }, 10);
 </script>
 
 {% if site.google_analytics and jekyll.environment == 'production' %}
