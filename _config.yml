@@ -1,4 +1,6 @@
 title: Bodhayan Prasad
-#theme: minima
-# Google Analytics
+logo: /assets/img/ORCID.png
+description: Please scan for my ORCID...
+show_downloads: true
 google_analytics: G-XDTS8NJQKD
+theme: jekyll-theme-minimal
