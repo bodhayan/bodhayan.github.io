@@ -2,8 +2,6 @@
 {% include analytics.html %}
 {% endif %}
 
-# Bodhayan Prasad
-
 An innovator
 
 <a
