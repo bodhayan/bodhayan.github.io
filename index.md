@@ -19,8 +19,6 @@ layout: default
 | Personalised Medicine | Complex Systems |
 | Stratified Healthcare | Machine Learning |
 
-* * *
-
 ## Packages and pipelines developed
 * molSpel
 * [ATRPred](https://github.com/ShuklaLab/ATRPred)
